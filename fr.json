@@ -47,7 +47,7 @@
         "existing": "Avez-vous déjà un compte ?",
         "username": "Nom d'utilisateur",
         "check_mail": "Vérifiez vos e-mails !",
-        "check_spam": "Vérifiez vos spam si vous ne le trouvez pas",
+        "check_spam": "Vérifiez vos spams si vous ne le trouvez pas",
         "email_delay": "Nous vous avons envoyé un e-mail de vérification. Merci d'attendre jusqu'à 10 minutes pour qu'il arrive.",
         "welcome": "Bienvenue !",
         "subtitle": "Se connecter à Revolt",
@@ -60,7 +60,7 @@
         "verified_account": "Votre compte a bien été vérifié !",
         "verified_continue": "Continuer vers la page de connexion",
         "new_password": "Nouveau mot de passe",
-        "log_out_other": "Se déconnecter toutes les autres sessions"
+        "log_out_other": "Se déconnecter de toutes les autres sessions"
     },
     "app": {
         "main": {
@@ -71,7 +71,7 @@
                     "added_by": "{{user}} a été ajouté par {{other_user}}",
                     "user_joined": "{{user}} a rejoint",
                     "removed_by": "{{user}} a été retiré par {{other_user}}",
-                    "channel_renamed": "{{user}} a modifié le nom du salon : {{name}}",
+                    "channel_renamed": "{{user}} a modifié le nom du salon : {{name}}",
                     "channel_description_changed": "{{user}} a changé la description du salon",
                     "channel_icon_changed": "{{user}} a modifié l'icône du salon",
                     "user_kicked": "{{user}} a été exclu",
@@ -142,7 +142,7 @@
                     }
                 },
                 "errors": {
-                    "title": "Oups, il n'y a rien ici !",
+                    "title": "Oups, il n'y a rien ici !",
                     "nochannels": "Ce serveur n'a aucun salon ou vous n'avez accès à aucun salon.",
                     "nochannel": "Aucun salon"
                 },
@@ -311,7 +311,7 @@
                         "description": "Parcourez les thèmes réalisés par la communauté"
                     },
                     "appearance_options": {
-                        "title": "Option d'apparence",
+                        "title": "Options d'apparence",
                         "show_send_desc": "Si cette option est désactivée, le bouton d'envoi de message ne sera visible que sur mobile.",
                         "show_send": "Toujours afficher le bouton d'envoi de message",
                         "show_account_age_desc": "Si cette option est désactivée, l'âge du compte sera seulement montré pour les nouveaux utilisateurs.",
@@ -388,7 +388,7 @@
                         "view_recovery": "Voir les codes de récupération",
                         "generate_recovery_long": "Préparez l'A2F en mettant en place une méthode de récupération.",
                         "generate_recovery": "Générer les codes de récupération",
-                        "two_factor_off": "Vous n'avez pas activé l'authentification à deux facteurs !",
+                        "two_factor_off": "Vous n'avez pas activé l'authentification à deux facteurs !",
                         "two_factor_on": "L'authentification à deux facteurs est activée."
                     },
                     "unique_id": "Il s’agit d’un identifiant unique pour votre compte.",
@@ -436,7 +436,7 @@
                         "servers": "Serveurs"
                     },
                     "descriptions": {
-                        "servers": "Ceci vous permet de créer des serveurs avec des salon, invitations, modération et plus."
+                        "servers": "Ceci vous permet de créer des serveurs avec des salons, invitations, modération et plus."
                     },
                     "not_available": "Aucune expérience n'est disponible actuellement."
                 },
@@ -445,13 +445,13 @@
                 },
                 "bots": {
                     "title": "Mes bots",
-                    "reserved": "Note : Ce champ est réservé pour l'avenir.",
+                    "reserved": "Note : Ce champ est réservé pour l'avenir.",
                     "create_bot": "Créer un bot",
                     "token": "Jeton",
                     "public_bot_tip": "Ce bot est public. N'importe qui peut l'inviter.",
                     "private_bot_tip": "Ce bot est privé. Vous seul pouvez l'inviter.",
                     "public_bot": "Bot public",
-                    "interactions_url": "URL d'Interactions",
+                    "interactions_url": "URL d'interactions",
                     "copy_invite": "Copier le lien d'invitation",
                     "add": "Ajouter un bot",
                     "public_bot_desc": "Si cette option est activée, d’autres utilisateurs peuvent ajouter ce bot aux serveurs et aux messages de groupe.",
@@ -486,7 +486,7 @@
                 },
                 "plugins": {
                     "title": "Modules d'extension",
-                    "wip": "Attention : cette fonctionnalité est toujours en cours de développement.",
+                    "wip": "Attention : cette fonctionnalité est toujours en cours de développement.",
                     "delete_plugin": "Supprimer",
                     "no_plugins": "Aucun plugin n'est installé."
                 },
@@ -503,7 +503,7 @@
                         "navigation": "Navigation",
                         "advanced": "Avancé"
                     },
-                    "add_keybind": "Ajouter un nouveau raccourcis",
+                    "add_keybind": "Ajouter un nouveau raccourci",
                     "action": {
                         "navigate_channel_up": {
                             "description": "Aller au canal précédent.",
@@ -555,7 +555,7 @@
                         },
                         "input_force_submit": {
                             "title": "Forcer la soumission de l’entrée",
-                            "description": "Un raccourci clavier avancé qui est généralement utilisé pour soumettre de force l'entrée actuelle, en ignorant certaines vérifications ou autres raccourcis claviers.\nCela peut inclure la soumission d'un message au lieu de confirmer la sélection de l'auto-complétions."
+                            "description": "Un raccourci clavier avancé qui est généralement utilisé pour soumettre de force l'entrée actuelle, en ignorant certaines vérifications ou autres raccourcis claviers.\nCela peut inclure la soumission d'un message au lieu de confirmer la sélection de l'auto-complétion."
                         },
                         "developer_toggle_all_experiments": {
                             "title": "Basculer vers l'expérience du mode sans échec",
@@ -595,12 +595,12 @@
             },
             "tips": {
                 "account": {
-                    "a": "Voulez-vous customiser votre profil public ?",
+                    "a": "Voulez-vous customiser votre profil public ?",
                     "b": "Rendez vous dans vos paramètres de profil."
                 },
                 "languages": {
-                    "a": "La langue que vous souhaitez n'est pas disponible ?",
-                    "b": "Aidez-nous en contribuant vos traductions."
+                    "a": "La langue que vous souhaitez n'est pas disponible ?",
+                    "b": "Aidez-nous en contribuant aux traductions."
                 },
                 "sessions": {
                     "a": "Si vous voyez une session inconnue dans la liste,",
